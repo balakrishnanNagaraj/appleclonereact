@@ -22,7 +22,3 @@ This project focuses on replicating Apple's minimal and elegant design with smoo
 - **Vercel** – Deployment
 
 ---
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/Sundari31/Apple-Clone.git
