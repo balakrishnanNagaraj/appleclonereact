@@ -3,8 +3,7 @@
 A responsive front-end clone of the official Apple website, built using **React** and **Tailwind CSS**.  
 This project focuses on replicating Apple's minimal and elegant design with smooth UI, responsive layouts, and clean code.
 
-## 🚀 Live Demo  
-🔗 **[View Project](https://apple-clone-navy.vercel.app/)**
+
 
 ---
 
